@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# LaTeX
+*.aux
+*.log
+*.toc
+out/
+
+# Environment
+.env
+venv/
+.venv/
+
+# IDE / OS
+.DS_Store
+.idea/
+.vscode/
+
+# Experiments
+exp/
+cache/
